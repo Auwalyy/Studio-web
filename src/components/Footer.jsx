@@ -99,7 +99,7 @@ const Footer = () => {
       </div>
 
       {/* Center Lightbulb Icon - Smaller on mobile */}
-      <div className="absolute left-1/2 -translate-x-1/2 bottom-[100px] md:bottom-[120px] opacity-90">
+      <div className="absolute left-1/2 -translate-x-1/2 bottom-[100px] hidden md:bottom-[120px] opacity-90">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           className="w-16 h-20 md:w-24 md:h-30"
