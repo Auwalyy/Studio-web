@@ -72,9 +72,9 @@ const Testimonials = () => {
         </div>
 
         {/* Navigation Arrows */}
-        <div className="flex justify-center items-center space-x-4">
+        <div className="flex justify-center items-center space-x-3">
           {/* Left Arrow */}
-          <img src={arrow} className="w-[240px] h-[60px] cursor-pointer" />
+          <img src={arrow} className="w-[220px] h-[35px] cursor-pointer" />
          
         </div>
       </div>
