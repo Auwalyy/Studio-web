@@ -6,7 +6,7 @@ import HeroSection from '../components/HeroSection'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 
-const Landing = () => {
+const Home = () => {
   return (
     <div>
        <HeroSection />
@@ -17,4 +17,4 @@ const Landing = () => {
   )
 }
 
-export default Landing
+export default Home
